@@ -5,7 +5,7 @@ import { Title, Menu, Zens } from "./components";
 const HomeEnvironment = () => (
     <View>
         <Menu>
-            <Title>Choose your zen</Title>
+            <Title>Let's have a tour</Title>
             <Zens />
         </Menu>
     </View>

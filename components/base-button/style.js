@@ -5,7 +5,7 @@ export default StyleSheet.create({
       width: 400,
    },
    textDefault: {
-       color: "#f0fc",
+       color: "#0000",
        fontSize: 30,
        fontWeight: "400",
    }
